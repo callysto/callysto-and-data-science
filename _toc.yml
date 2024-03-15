@@ -4,11 +4,11 @@
 format: jb-book
 root: intro
 chapters:
-- file: Module_1/Module1
-  title: Module 1 - Learning Outcomes
-  #sections:
-  #- file: Module_1/Module1_Unit1
-  #  title: What is Data Science?
+- file: Module_1/Module1_Overview
+  title: Module 1 - Introduction to Data Science
+  sections:
+  - file: Module_1/Module1_Unit1
+    title: What is Data Science?
   #- file: Module_1/Module1_Unit2
   #  title: The Value of Data Science
   #- file: Module_1/Module1_Unit3
@@ -20,5 +20,8 @@ chapters:
   #sections:
   #- file: Module_2/Module2_Unit1
   #  title: Data for a Better Worldview
+  
+
+
     
     
