@@ -15,11 +15,19 @@ chapters:
     title: Data Science and Critical Thinking
   - file: Module_1/Module1_Unit4
     title: Framing a Data Science Question
-- file: Module_2/Module2
-  title: Module 2 - Learning Outcomes
-  #sections:
-  #- file: Module_2/Module2_Unit1
-  #  title: Data for a Better Worldview
+- file: Module_2/Module2_Overview
+  title: Module 2 - Data
+  sections:
+  - file: Module_2/Module2_Unit1
+    title: Data for a Better Worldview
+  - file: Module_2/Module2_Unit2
+    title: Data Fundamentals
+  - file: Module_2/Module2_Unit3
+    title: Data Sources
+  - file: Module_2/Module2_Unit4
+    title: Data Quality
+  - file: Module_2/Module2_Unit5
+    title: Getting Started with Data Science Tools
   
 
 
