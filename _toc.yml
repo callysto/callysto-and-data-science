@@ -69,10 +69,10 @@ chapters:
     title: Basic Statistics
   - file: Module_5/Module5_Unit6
     title: Criitical Analysis of Software Outputs
-- file: Module_5/ModuleProject_Summary
+- file: Module_5/Module_Project_Summary
     title: Project Summary
   sections:
-  - file: ModuleProject_Summary_Overview
+  - file: Module_Project_Summary_Overview
     title: Final Project Summary
 
 
