@@ -9,12 +9,12 @@ chapters:
   sections:
   - file: Module_1/Module1_Unit1
     title: What is Data Science?
-  #- file: Module_1/Module1_Unit2
-  #  title: The Value of Data Science
-  #- file: Module_1/Module1_Unit3
-  #  title: Data Science and Critical Thinking
-  #- file: Module_1/Module1_Unit4
-  #  title: Framing a Data Science Question
+  - file: Module_1/Module1_Unit2
+    title: The Value of Data Science
+  - file: Module_1/Module1_Unit3
+    title: Data Science and Critical Thinking
+  - file: Module_1/Module1_Unit4
+    title: Framing a Data Science Question
 - file: Module_2/Module2
   title: Module 2 - Learning Outcomes
   #sections:
