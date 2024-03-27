@@ -54,6 +54,21 @@ chapters:
     title: Choosing the Right Type of Visualization for your Data
   - file: Module_4/Module4_Unit4
     title: Data Visualization Design 
+- file: Module_5/Module5_Overview
+  title: Module 5 - Analyzing Data and Interpreting Data
+  sections:
+  - file: Module_5/Module5_Unit1
+    title: Introduction to Data Analysis
+  - file: Module_5/Module5_Unit2
+    title: Indentify Trends in Data
+  - file: Module_5/Module5_Unit3
+    title: Describing Trends
+  - file: Module_5/Module5_Unit4
+    title: Critical Interpretation
+  - file: Module_5/Module5_Unit5
+    title: Basic Statistics
+  - file: Module_5/Module5_Unit6
+    title: Criitical Analysis of Software Outputs
 
 
 
