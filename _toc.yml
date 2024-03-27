@@ -43,6 +43,18 @@ chapters:
     title: Cleaning and Filtering Data Sets
   - file: Module_3/Module3_Unit5
     title: Working with Text Data
+- file: Module_4/Module4_Overview
+  title: Module 4 - Creating Data Visualizations with Jupyter Notebooks
+  sections:
+  - file: Module_4/Module4_Unit1
+    title: Data Visualization Basics
+  - file: Module_4/Module4_Unit1a
+    title: (Optional) Advanced Data Visualizations
+  - file: Module_4/Module4_Unit2
+    title: Choosing the Right Type of Visualization for your Data
+  - file: Module_4/Module4_Unit4
+    title: Data Visualization Design 
+
 
 
 
